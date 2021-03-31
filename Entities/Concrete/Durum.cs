@@ -9,6 +9,7 @@ namespace Entities.Concrete
     {
         public int DurumId { get; set; }
         public string Ad { get; set; }
+        public int IslemTipi { get; set; }
 
     }
 }
